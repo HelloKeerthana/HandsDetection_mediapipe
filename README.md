@@ -6,4 +6,4 @@
 
 <p>Press "q" to quit the video feed.</p>
 
-![hand_detection](https://github.com/user-attachments/assets/d828a085-c2cb-47ee-a728-6bfb4b52c525)
+<img src="![hand_detection](https://github.com/user-attachments/assets/d828a085-c2cb-47ee-a728-6bfb4b52c525)" alt="picture" width:100px height:100px>
